@@ -3,4 +3,4 @@ i just changed the page to linkedin and create a test class ( what i should run 
 and a main/java/package/class that has the web elements and actions 
 the maven (pom.xml ) still the same cuz the deeded dependancy ( selenium) is already exist from task 1 
 here i applied the testNG concept , read about it
-
+not that testNG also requires a dependancy in the pom.xml
